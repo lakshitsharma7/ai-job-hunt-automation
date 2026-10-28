@@ -1,0 +1,55 @@
+{
+  "target_roles": [
+    {
+      "id": "frontend",
+      "title": "Frontend Developer",
+      "alternate_titles": ["React Developer", "UI Developer", "Frontend Engineer"],
+      "primary_skills": ["React.js", "JavaScript", "HTML5", "CSS3", "Tailwind CSS", "REST APIs"],
+      "resume_file": "Candidate-Frontend-Developer"
+    },
+    {
+      "id": "python",
+      "title": "Python Developer",
+      "alternate_titles": ["Backend Developer", "FastAPI Developer", "Django Developer"],
+      "primary_skills": ["Python", "FastAPI", "Django", "PostgreSQL", "REST APIs", "SQL"],
+      "resume_file": "Candidate-Python-Developer"
+    },
+    {
+      "id": "ai_automation",
+      "title": "AI Automation Developer",
+      "alternate_titles": ["AI Workflow Engineer", "Automation Developer"],
+      "primary_skills": ["Python", "Generative AI", "n8n", "AI APIs", "Prompt Engineering"],
+      "resume_file": "Candidate-AI-Automation-Developer"
+    },
+    {
+      "id": "software_dev",
+      "title": "Software Developer",
+      "alternate_titles": ["Associate Software Engineer", "Full-Stack Developer"],
+      "primary_skills": ["Python", "JavaScript", "React.js", "FastAPI", "REST APIs", "Git"],
+      "resume_file": "Candidate-Software-Developer"
+    }
+  ],
+  "experience_level": {
+    "min_years": 0,
+    "max_years": 2,
+    "target_bands": ["Entry Level", "Junior", "Associate"]
+  },
+  "location_preferences": {
+    "primary_cities": ["Delhi NCR", "Noida", "Gurugram"],
+    "relocation_cities": ["Bengaluru", "Pune", "Hyderabad"],
+    "work_modes": ["Remote", "Hybrid", "On-site"]
+  },
+  "compensation": {
+    "currency": "INR",
+    "minimum_acceptable_lpa": 5.0,
+    "target_lpa_range": "6.0 - 10.0 LPA",
+    "negotiable": true
+  },
+  "fit_score_weights": {
+    "must_have_skills": 0.50,
+    "experience_level": 0.20,
+    "location_work_mode": 0.15,
+    "nice_to_have_skills": 0.15,
+    "minimum_threshold": 60
+  }
+}

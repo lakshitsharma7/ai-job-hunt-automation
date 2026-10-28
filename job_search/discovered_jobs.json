@@ -1,0 +1,182 @@
+{
+  "timestamp": "2026-10-28T15:32:23.086105",
+  "shortlisted_count": 0,
+  "skipped_count": 7,
+  "shortlisted": [],
+  "skipped": [
+    {
+      "job": {
+        "company": "TechNova Labs",
+        "title": "Junior Frontend Engineer (React)",
+        "job_url": "https://careers.technova.io/jobs/fe-react-01",
+        "portal": "Company Career Page",
+        "location": "Noida, Delhi NCR",
+        "work_mode": "Hybrid",
+        "min_experience_years": 1,
+        "must_have_skills": [
+          "React",
+          "JavaScript",
+          "HTML5",
+          "CSS3",
+          "REST APIs"
+        ],
+        "nice_to_have_skills": [
+          "Tailwind CSS",
+          "Next.js"
+        ],
+        "salary": "6 - 8 LPA",
+        "date_posted": "2026-10-27",
+        "description": "Seeking a Junior Frontend Engineer to build responsive web modules using React.js and connect RESTful APIs."
+      },
+      "reason": "Duplicate listing: already tracked with status 'Awaiting Approval'"
+    },
+    {
+      "job": {
+        "company": "CloudForge Systems",
+        "title": "Python Backend Developer (FastAPI)",
+        "job_url": "https://cloudforge.dev/careers/python-jr-42",
+        "portal": "LinkedIn",
+        "location": "Bengaluru / Remote",
+        "work_mode": "Remote",
+        "min_experience_years": 1,
+        "must_have_skills": [
+          "Python",
+          "FastAPI",
+          "PostgreSQL",
+          "REST APIs",
+          "Git"
+        ],
+        "nice_to_have_skills": [
+          "PySide6",
+          "Docker",
+          "CI/CD"
+        ],
+        "salary": "7 - 10 LPA",
+        "date_posted": "2026-10-28",
+        "description": "Building high-performance asynchronous microservices and telemetry data pipelines using Python and FastAPI."
+      },
+      "reason": "Duplicate listing: already tracked with status 'Awaiting Approval'"
+    },
+    {
+      "job": {
+        "company": "Apex Automation AI",
+        "title": "AI Workflow & Automation Developer",
+        "job_url": "https://wellfound.com/jobs/apex-ai-workflow-dev",
+        "portal": "Wellfound",
+        "location": "Gurugram, Delhi NCR",
+        "work_mode": "Hybrid",
+        "min_experience_years": 0.5,
+        "must_have_skills": [
+          "Python",
+          "n8n",
+          "AI APIs",
+          "Prompt Engineering",
+          "Webhooks"
+        ],
+        "nice_to_have_skills": [
+          "FastAPI",
+          "JSON",
+          "AI Agents"
+        ],
+        "salary": "6.5 - 9 LPA",
+        "date_posted": "2026-10-28",
+        "description": "Orchestrating AI agents and n8n workflow automation pipelines connecting business applications and LLMs."
+      },
+      "reason": "Duplicate listing: already tracked with status 'Applied'"
+    },
+    {
+      "job": {
+        "company": "InnoSoft Digital",
+        "title": "Associate Software Developer",
+        "job_url": "https://innosoft.com/openings/assoc-swe-delhi",
+        "portal": "Naukri",
+        "location": "New Delhi",
+        "work_mode": "On-site",
+        "min_experience_years": 1,
+        "must_have_skills": [
+          "Python",
+          "JavaScript",
+          "React",
+          "SQL",
+          "REST APIs"
+        ],
+        "nice_to_have_skills": [
+          "Django",
+          "PostgreSQL",
+          "Jenkins"
+        ],
+        "salary": "5.5 - 7.5 LPA",
+        "date_posted": "2026-10-27",
+        "description": "Full-stack entry role developing Python backends and modern React interfaces with automated test pipelines."
+      },
+      "reason": "Duplicate listing: already tracked with status 'Awaiting Approval'"
+    },
+    {
+      "job": {
+        "company": "RapidScale Ventures",
+        "title": "React.js Developer (Junior)",
+        "job_url": "https://instahyre.com/jobs/rapidscale-react-dev",
+        "portal": "Instahyre",
+        "location": "Pune / Remote",
+        "work_mode": "Remote",
+        "min_experience_years": 1,
+        "must_have_skills": [
+          "React",
+          "JavaScript",
+          "Redux",
+          "Tailwind CSS",
+          "REST APIs"
+        ],
+        "nice_to_have_skills": [
+          "Next.js",
+          "TypeScript"
+        ],
+        "salary": "7 - 9 LPA",
+        "date_posted": "2026-10-28",
+        "description": "Fast-paced SaaS startup seeking a Junior React Developer to scale interactive customer dashboards."
+      },
+      "reason": "Duplicate listing: already tracked with status 'Awaiting Approval'"
+    },
+    {
+      "job": {
+        "company": "Legacy Corp",
+        "title": "Staff Principal Architect",
+        "job_url": "https://legacycorp.com/careers/arch-99",
+        "portal": "Company Career Page",
+        "location": "Mumbai",
+        "work_mode": "On-site",
+        "min_experience_years": 12,
+        "must_have_skills": [
+          "C++",
+          "COBOL",
+          "Kubernetes",
+          "Erlang"
+        ],
+        "nice_to_have_skills": [],
+        "salary": "40 LPA",
+        "date_posted": "2026-10-15",
+        "description": "Requires 12+ years of enterprise architecture experience."
+      },
+      "reason": "Duplicate listing: already tracked with status 'Skipped'"
+    },
+    {
+      "job": {
+        "company": "FastCash Tech Work",
+        "title": "Junior Python Web Assistant",
+        "job_url": "https://scamjob-example.com/pay-fee",
+        "portal": "Telegram Link",
+        "location": "Remote",
+        "work_mode": "Remote",
+        "min_experience_years": 0,
+        "must_have_skills": [
+          "Python"
+        ],
+        "nice_to_have_skills": [],
+        "salary": "15 LPA",
+        "date_posted": "2026-10-28",
+        "description": "Guaranteed job. Pay Rs. 2,500 security deposit for training kit. Contact on Telegram @scamrecruiter."
+      },
+      "reason": "Duplicate listing: already tracked with status 'Skipped'"
+    }
+  ]
+}

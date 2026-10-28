@@ -1,0 +1,108 @@
+# ==============================================================================
+# .gitignore — Autonomous AI Job Hunt Automation System
+# Strict Privacy & Security Exclusions (Zero PII, Credentials, or Personal Data)
+# ==============================================================================
+
+# 1. Environment & Secret Credentials
+.env
+.env.*
+*.env
+!.env.example
+*.pem
+*.key
+*.cert
+*.p12
+*.crt
+*service_account*.json
+credentials.json
+token.json
+client_secret*.json
+
+# 2. Personal Profile & Candidate Data (Private PII)
+profiles/master_profile.md
+profiles/answer_bank.json
+profiles/job_preferences.json
+profiles/linkedin_optimization.md
+!profiles/*.example.*
+
+# 3. Generated Resumes (Personal PDFs and DOCX)
+resumes/*.pdf
+resumes/*.docx
+resumes/Lakshit-Sharma-*
+!resumes/templates/
+!resumes/.gitkeep
+
+# 4. Applications & Submissions (Personal Candidate Packages)
+applications/batches/
+applications/*.json
+!applications/.gitkeep
+
+# 5. Tracker Database (Personal Application History & Recruiter Names)
+tracker/*.xlsx
+tracker/*.csv
+!tracker/*.example.*
+!tracker/.gitkeep
+
+# 6. Integrations (Calendar Invites & Recruiter Email Drafts)
+integrations/calendar_events/*.ics
+integrations/email_drafts/*.txt
+!integrations/calendar_events/.gitkeep
+!integrations/email_drafts/.gitkeep
+
+# 7. Interview Prep (Personal Briefs & Debrief Notes)
+interview_prep/prep_brief_*.md
+interview_prep/weekly_review.md
+!interview_prep/.gitkeep
+
+# 8. Python & Environment Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 9. Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# 10. Operating System & IDE Files
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# 11. Logs & Temporary Files
+logs/
+*.log
+scratch/
+scratch*
+scratch_*
+temp/
+tmp/
+*.tmp

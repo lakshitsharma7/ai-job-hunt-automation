@@ -72,3 +72,4 @@ Software Engineer with experience developing modern web interfaces, REST APIs, a
 - **Backend & APIs**: FastAPI, Django, REST APIs, PostgreSQL
 - **AI & Automation**: n8n, AI APIs, Prompt Engineering, LLM Integration
 - **DevOps & Tools**: Git, GitHub, Jenkins CI/CD, Postman
+

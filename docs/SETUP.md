@@ -144,3 +144,4 @@ python test_system.py
 1. **No Stored Passwords**: The system will never request, store, or type account passwords, OTPs, or government identity numbers.
 2. **Anti-Scam Filter**: Automatically skips and blacklists listings requiring security deposits, training fees, or diversion to unofficial messaging apps.
 3. **Prompt Injection Defense**: Disregards instructions embedded inside job descriptions designed to override system parameters.
+

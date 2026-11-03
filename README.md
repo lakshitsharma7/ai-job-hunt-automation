@@ -1,7 +1,7 @@
 # AI Job Hunt Automation System
 
 [![Python](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-blue?logo=python)](https://www.python.org/)
-[![ATS](https://img.shields.io/badge/ATS%20Compatibility-100%25%20Single--Column-green)](https://github.com/lakshitsharma7/ai-job-hunt-automation)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Architecture](https://img.shields.io/badge/Architecture-Autonomous%20Agentic%20Pipeline-orange)](https://github.com/lakshitsharma7/ai-job-hunt-automation)
 [![Security](https://img.shields.io/badge/Security-Zero--PII%20Gated-red)](https://github.com/lakshitsharma7/ai-job-hunt-automation)
 
@@ -158,4 +158,4 @@ python test_system.py
 
 ## 📄 License
 
-*Subject to candidate confirmation (e.g. MIT License).*
+This project is licensed under the [MIT License](LICENSE).
